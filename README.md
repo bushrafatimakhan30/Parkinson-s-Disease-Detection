@@ -71,7 +71,7 @@ In this project, we use a publicly available dataset containing biomedical voice
    ```bash
    git clone https://github.com/yourusername/parkinsons-disease-detection.git
    cd parkinsons-disease-detection
-📈 Results
+# 📈 Results
 Test Accuracy: 95.57%
 
 Precision: 100%
@@ -84,12 +84,12 @@ ROC AUC Score: 0.978
 
 This model demonstrates excellent classification ability on the voice data and can act as a supportive screening tool in medical diagnosis.
 
-🧾 Conclusion
+# 🧾 Conclusion
 This project showcases how machine learning, even with simple models like Logistic Regression, can provide strong diagnostic support for neurological diseases such as Parkinson’s. Voice data is non-invasive and easy to collect, making this method both cost-effective and scalable.
 
 In future iterations, more complex models (like SVM, XGBoost, or Neural Networks) and larger datasets can be used for even better results. Deployment as a mobile or web-based diagnostic aid can also be explored.
 
-📚 References
+# 📚 References
 UCI Parkinson's Dataset
 
 Little MA, McSharry PE, Roberts SJ, Costello DA, Moroz IM. "Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection". BioMedical Engineering OnLine. 2007.
